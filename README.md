@@ -1,3 +1,12 @@
+# rustlings-practice
+
+### **rust practice exercises.**
+
+#### original repo is [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+
+-----------
+
+
 ![crab pet](https://i.imgur.com/LbZJgmm.gif)
 
 # rustlings 🦀❤️
